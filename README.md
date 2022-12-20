@@ -1,10 +1,11 @@
 <h1 align="center">metAstem</h1>
 
-![QQ截图20221219192149](https://user-images.githubusercontent.com/110768529/208644914-312eb660-6b35-4ed2-80a9-101e505103b6.png)
+![QQ截图20221220182617](https://user-images.githubusercontent.com/110768529/208646294-6a41bc7c-f3c2-4352-bc88-95c550134fb5.png)
+
 
 <p align="center">A privacy respecting free as in freedom meta search engine</p>
 
-<p align="center">A edited version of LibreX, you can find it [here](https://github.com/hnhx/librex/)</p>
+<p align="center">A edited version of LibreX, you can find it here: https://github.com/hnhx/librex/</p>
 
 > However, the Librex proxies have worked around that problem. They enable me to access Google Search indirectly, and they work correctly through Tor with LibreJS enabled.
 ### About metAstem
