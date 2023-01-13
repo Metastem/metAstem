@@ -31,4 +31,3 @@ git clone https://github.com/Metastem/metAstem.git
 | SearXNG | ❓ Not user friendly | ❓ Only host can set it | ✅ | ✅ | ❌ |
 | Whoogle | ✅ | ❓ Only host can set it | ❌ | ❌ | ❌ |
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="metastem" data-color="#5F7FFF" data-emoji="💡"  data-font="Poppins" data-text="Buy me a idea" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
