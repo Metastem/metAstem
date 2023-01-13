@@ -30,3 +30,5 @@ git clone https://github.com/Metastem/metAstem.git
 | metAstem | ✅ | ✅ | ✅ | ✅ | ✅ |
 | SearXNG | ❓ Not user friendly | ❓ Only host can set it | ✅ | ✅ | ❌ |
 | Whoogle | ✅ | ❓ Only host can set it | ❌ | ❌ | ❌ |
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="metastem" data-description="Support me on Buy me a coffee!" data-message="As this society draws closer to destruction, we're betting everything on the possibility that we can open an escape hatch to an alternate future. Instead of competing for social capital or selling ourselves to the highest bidder, we are fully committed to fighting for a better world. We invite you to do the same." data-color="#5F7FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
