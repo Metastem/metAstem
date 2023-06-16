@@ -2,19 +2,23 @@
 
 ![243580079-83b4edc9-6a45-4638-9653-42829250ee95](https://github.com/Metastem/metAstem/assets/63197851/03d87025-0bf1-478a-8e19-f8f5a33169ed)
 
-
-
 <p align="center">Anonymous network of anarchists and rebels</p>
 
 <p align="center">Desperate measures against quantum computing</p>
 
 <p align="center">The Burning Hearse of Hierarchy in Our Age</p>
 
-### What is Metastem Thoughts?
+### What is Metastemism?
 
-Metastem Thoughts is everything that evades control: the daydream in the classroom, the renegade breaking ranks, the spray-painted walls that continue to speak even under martial law. It is the persistent sense that things could be otherwise, that there is nothing natural or inevitable about the prevailing social order. In a world optimized for administration, everything that cannot be classified or displayed on a screen is crimethink. It is the spirit of rebellion without which freedom is literally unthinkable.
+![QQ图片20221123140754](https://github.com/Metastem/metAstem/assets/63197851/510ee3c5-969f-41d5-97c8-1a89192605fa)
+
+
+Metastemism is everything that evades control: the daydream in the classroom, the renegade breaking ranks, the spray-painted walls that continue to speak even under martial law. It is the persistent sense that things could be otherwise, that there is nothing natural or inevitable about the prevailing social order. In a world optimized for administration, everything that cannot be classified or displayed on a screen is metastemism. It is the spirit of rebellion without which freedom is literally unthinkable.
 
 ### What is Metastem?
+
+![Uploading wp3055146-protest-wallpapers.jpg…]()
+
 
 Metastem is a rebel alliance — a secret society pledged to the propagation of Metastem Thoughts. It is a think tank producing ideas and action, a sphinx posing questions fatal to the superstitions of our age.
 
