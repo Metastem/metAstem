@@ -17,7 +17,8 @@ Metastemism is everything that evades control: the daydream in the classroom, th
 
 ### What is Metastem?
 
-![Uploading wp3055146-protest-wallpapers.jpg…]()
+![wp3055146-protest-wallpapers](https://github.com/Metastem/metAstem/assets/63197851/7312ebfb-6eae-4707-b9d8-623272d13eeb)
+
 
 
 Metastem is a rebel alliance — a secret society pledged to the propagation of Metastem Thoughts. It is a think tank producing ideas and action, a sphinx posing questions fatal to the superstitions of our age.
