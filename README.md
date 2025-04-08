@@ -13,8 +13,7 @@
 ![QQ图片20221123140754](https://github.com/Metastem/metAstem/assets/63197851/510ee3c5-969f-41d5-97c8-1a89192605fa)
 
 
-Metastemism is everything that evades control: the daydream in the classroom, the renegade breaking ranks, the spray-painted walls that continue to speak even under martial law. It is the persistent sense that things could be otherwise, that there is nothing natural or inevitable about the prevailing social order. In a world optimized for administration, everything that cannot be classified or displayed on a screen is metastemism. It is the spirit of rebellion without which freedom is literally unthinkable.
-
+Metastem是逃避控制的一切：课堂上的白日梦、打破秩序的叛徒、即使在戒严令下仍在继续发声的喷漆墙壁。它是一种坚持认为事情可能会有所不同的感觉，认为现行的社会秩序没有任何自然或必然性。在一个为管理而优化的世界里，所有不能分类或显示在屏幕上的东西都是Metastem。它是反叛精神，没有它，自由简直是不可想象的。
 ### What is Metastem?
 
 ![wp3055146-protest-wallpapers](https://github.com/Metastem/metAstem/assets/63197851/7312ebfb-6eae-4707-b9d8-623272d13eeb)
